@@ -1,2 +1,9 @@
 
 .idea/vcs.xml
+.idea/django-learn.iml
+.idea/misc.xml
+.idea/workspace.xml
+mysite/mysite/__pycache__/__init__.cpython-35.pyc
+mysite/mysite/__pycache__/settings.cpython-35.pyc
+mysite/mysite/__pycache__/urls.cpython-35.pyc
+mysite/mysite/__pycache__/wsgi.cpython-35.pyc
